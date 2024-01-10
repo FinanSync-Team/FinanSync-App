@@ -1,0 +1,6 @@
+templatesRootDirPath: ./templates
+modulesTemplatesRootDirPath: ./modules_templates
+
+groupsNames:
+  forNewGroup: HH Templates
+  forNewModulesGroup: HH Modules
